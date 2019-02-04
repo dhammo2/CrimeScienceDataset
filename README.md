@@ -1,11 +1,16 @@
 # CrimeScienceDataset
-A collation of datasets potentially useful for Crime Scientists
+A collation of open source datasets useful for Crime Scientists
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+[Police Data Sources](#Police Data Sources) 
+[Shape Files](#Shape Files)  
+
+
 <a name="headers"/>
 ## Police Data Sources
+
+
+## Shape Files
+
 
 ## 
