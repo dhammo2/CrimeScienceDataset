@@ -18,6 +18,10 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 * City of Chicago Police Data
   - *Description*: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. 
   - *Link*: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+  
+* City of Rockford (Illinois) Police Data
+  - *Description*: The purpose of this dataset is to depict the City of Rockford, IL and to show multiple offenses in criminal incidents that occur within the City of Rockford Police Department jurisdiction.
+  - *Link*: https://data.illinois.gov/dataset/116city_of_rockford_crime_offenses_2011present
  
 * Los Angeles Police Department Crime Data
   - *Description*: This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
@@ -25,7 +29,7 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 
 #### Europe
 * UK Police Data
-  - *Description*:
+  - *Description*: These CSV files provide street-level crime, outcome, and stop and search information, broken down by police force and 2011 lower layer super output area (LSOA).
   - *Link*: https://data.police.uk/
   
 * Police Scotland, Annual Crime Statistics
