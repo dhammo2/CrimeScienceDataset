@@ -45,7 +45,6 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
   - *Description*: Our database has now profiled the offences of over 72,000 ‘convicted’ UK & Irish child abusers or perverts.
   - *Link*: https://theukdatabase.com/  
 
-
 ## Serious and Organised Crimes
 * Migrant Smuggling Case Database
   - *Description*: The Migrant Smuggling Case Database, launched by the UQ Migrant Smuggling Working Group in August 2013, provides immediate, public access to officially documented instances of this crime. The database contains details of the arrival of smuggled migrants in selected destination countries, embarkation and arrival points, passengers, crew, and organisers, charges laid, criminal proceedings and legal issues, verdicts and other information relating to reported cases of migrant smuggling.
@@ -60,5 +59,13 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 ## Forensics
 
 
+## Other
+* UK Missing Persons Database
+  - *Description*: The aim of our website is to publicise information about unidentified people and remains, enlisting the public to help maximise the chances of identification. It is hoped the website will empower families of missing people to play an active part in searching for their loved ones and bring vital closure if they are identified. Our website also features general information around missing person investigations and is intended to be a valuable resource.
+  - *Link*: https://www.missingpersons.police.uk/en-gb/case-search/
+  
+* FBI Most Wanted List
+  - *Description*: FBI Most Wanted (Fugitives/Terrorists/Kidnappings/Missing Persons/Seeking Info/Parental Kidnappings/Bank Robbers/ECAP/ViCAP)
+  - *Link*: https://www.fbi.gov/wanted
 
 
