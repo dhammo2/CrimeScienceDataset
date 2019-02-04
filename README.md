@@ -70,7 +70,10 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 * Footwear Impression Database
   - *Description*: The databases contain samples of footwear impression evidence, that have been secured at crime scenes by forensic experts. The digital images were produced either by scanning gelatin lifters or by photographing the impression. Moreover, 1175 reference impressions are included in the databases. The reference samples have been produced by applying gelatine lifters to the outsole of the reference shoe, followed by scanning the lifters. Thus, the data generating process is very similar for both types of impressions. The data is labelled, meaning that for each crime scene impression, the name of the corresponding reference impression is known.
   - *Link*: https://fid.dmi.unibas.ch/
-
+  
+* Sokoto Coventry Fingerprint Dataset (SOCOFing)
+  - *Description*: Sokoto Coventry Fingerprint Dataset (SOCOFing) is a biometric fingerprint database designed for academic research purposes. SOCOFing is made up of 6,000 fingerprint images from 600 African subjects and contains unique attributes such as labels for gender, hand and finger name as well as synthetically altered versions with three different levels of alteration for obliteration, central rotation, and z-cut. For a complete formal description and usage policy please refer to the following paper: https://arxiv.org/abs/1807.10609
+  - *Link*: https://www.kaggle.com/ruizgara/socofing
 
 ## Other
 * UK Missing Persons Database
