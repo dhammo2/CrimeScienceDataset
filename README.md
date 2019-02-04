@@ -3,13 +3,15 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 
 ## Table of Contents
 - [Policing](#policing)
- - [Official Police Datasets](#official-police-datasets)
+  * [Official Police Datasets](#official-police-datasets)
     + [Americas](#americas)
     + [Europe](#europe)
- - [Other](#other)
+  * [Other](#other)
 - [Serious and Organised Crimes](#serious-and-organised-crimes)
 - [Terrorism](#terrorism)
 - [Forensics](#forensics)
+- [Other](#other-1)
+- [Computer Vision Datasets](#computer-vision-datasets)
 
 ## Policing
 
