@@ -37,12 +37,18 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
   - *Description*: The map indicates the locations where the murders took place in London. You can filter the cases by clicking on the murder weapons below. If you click on the pins on the map you will be able to view the victim's profile and a link to the case page.
   - *Link*: http://www.murdermap.co.uk/murder-map.asp
   
+ * US Mass Shootings Database
+  - *Description*: US Mass Shootings, 1982-2019: Data From Mother Jones’ Investigation
+  - *Link*: https://docs.google.com/spreadsheets/d/1b9o6uDO18sLxBqPwl_Gh9bnhW-ev_dABH83M5Vb5L8o/edit#gid=0
+  
 
 
 ## Serious and Organised Crimes
 * Migrant Smuggling Case Database
   - *Description*: The Migrant Smuggling Case Database, launched by the UQ Migrant Smuggling Working Group in August 2013, provides immediate, public access to officially documented instances of this crime. The database contains details of the arrival of smuggled migrants in selected destination countries, embarkation and arrival points, passengers, crew, and organisers, charges laid, criminal proceedings and legal issues, verdicts and other information relating to reported cases of migrant smuggling.
   - *Link*: https://ssl.law.uq.edu.au/som-database/home.php
+  
+  
 ## Terrorism
 * The Global Terrorism Database
   - *Description*: The Global Terrorism Database (GTD) is an open-source database including information on terrorist events around the world from 1970 through 2017 (with additional annual updates planned for the future). Unlike many other event databases, the GTD includes systematic data on domestic as well as transnational and international terrorist incidents that have occurred during this time period and now includes more than 180,000 cases. For each GTD incident, information is available on the date and location of the incident, the weapons used and nature of the target, the number of casualties, and--when identifiable--the group or individual responsible.
