@@ -65,6 +65,9 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
   - *Link*: https://www.start.umd.edu/gtd/
 
 ## Forensics
+* Footwear Impression Database
+  - *Description*: The databases contain samples of footwear impression evidence, that have been secured at crime scenes by forensic experts. The digital images were produced either by scanning gelatin lifters or by photographing the impression. Moreover, 1175 reference impressions are included in the databases. The reference samples have been produced by applying gelatine lifters to the outsole of the reference shoe, followed by scanning the lifters. Thus, the data generating process is very similar for both types of impressions. The data is labelled, meaning that for each crime scene impression, the name of the corresponding reference impression is known.
+  - *Link*: https://fid.dmi.unibas.ch/
 
 
 ## Other
@@ -75,5 +78,10 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 * FBI Most Wanted List
   - *Description*: FBI Most Wanted (Fugitives/Terrorists/Kidnappings/Missing Persons/Seeking Info/Parental Kidnappings/Bank Robbers/ECAP/ViCAP)
   - *Link*: https://www.fbi.gov/wanted
+  
+## Computer Vision Datasets
+* Real-world Anomaly Detection in Surveillance Videos
+  - *Description*: We construct a new large-scale dataset, called UCF-Crime, to evaluate our method. It consists of long untrimmed surveillance videos which cover 13 realworld anomalies, including Abuse, Arrest, Arson, Assault, Road Accident, Burglary, Explosion, Fighting, Robbery, Shooting, Stealing, Shoplifting, and Vandalism. These anomalies are selected because they have a significant impact on public safety.
+  - *Link*: http://crcv.ucf.edu/projects/real-world/
 
 
