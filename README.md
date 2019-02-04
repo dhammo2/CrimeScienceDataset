@@ -59,6 +59,9 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 * Migrant Smuggling Case Database
   - *Description*: The Migrant Smuggling Case Database, launched by the UQ Migrant Smuggling Working Group in August 2013, provides immediate, public access to officially documented instances of this crime. The database contains details of the arrival of smuggled migrants in selected destination countries, embarkation and arrival points, passengers, crew, and organisers, charges laid, criminal proceedings and legal issues, verdicts and other information relating to reported cases of migrant smuggling.
   - *Link*: https://ssl.law.uq.edu.au/som-database/home.php
+* Human Trafficking Case Law Database
+  - *Description*: A comprehensive case law database provides immediate, public access to officially documented instances of trafficking in persons crime. The database contains details on victims and perpetrators nationalities, trafficking routes, verdicts and other information related to prosecuted cases from across the world. 
+  - *Link*: https://sherloc.unodc.org/cld/v3/htms/cldb/index.html?lng=en
   
   
 ## Terrorism
