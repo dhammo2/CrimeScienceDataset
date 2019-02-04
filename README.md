@@ -1,4 +1,4 @@
-# CrimeScienceDataset
+# Datasets for Crime Scientists
 A collation of open source datasets useful for Crime Scientists
 
 ##### Table of Contents  
