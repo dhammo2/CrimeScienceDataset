@@ -5,14 +5,22 @@ A collation of open source datasets useful for Crime Scientists
 
 ## Policing
 
-### Americas
+### Official Police Datasets
+#### Americas
 * New York Police Department Data
  - *Description*: 
 
-### Europe
+#### Europe
 * UK Police Data
   - *Description*:
   - *Link*: https://data.police.uk/
+  
+ ### Other
+ * London Murder Map
+  - *Description*: The map indicates the locations where the murders took place in London. You can filter the cases by clicking on the murder weapons below. If you click on the pins on the map you will be able to view the victim's profile and a link to the case page.
+  - *Link*: http://www.murdermap.co.uk/murder-map.asp
+  
+
 
 ## Serious and Organised Crimes
 * Migrant Smuggling Case Database
