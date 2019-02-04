@@ -1,7 +1,20 @@
 # Datasets for Crime Scientists
 A collation of open source datasets useful for Crime Scientists
 
-##### Table of Contents  
+## Table of Contents
+- [Datasets for Crime Scientists](#datasets-for-crime-scientists)
+        * [Table of Contents](#table-of-contents)
+  * [Policing](#policing)
+    + [Official Police Datasets](#official-police-datasets)
+      - [Americas](#americas)
+      - [Europe](#europe)
+    + [Other](#other)
+  * [Serious and Organised Crimes](#serious-and-organised-crimes)
+  * [Terrorism](#terrorism)
+  * [Forensics](#forensics)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Policing
 
