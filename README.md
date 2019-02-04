@@ -1,5 +1,5 @@
 # Datasets for Crime Scientists
-A collation of open source datasets useful for Crime Scientists
+A collation of open source datasets useful for Crime Scientists. Please add any datasets you think are relevant!
 
 ## Table of Contents
 - [Policing](#policing)
@@ -20,13 +20,17 @@ A collation of open source datasets useful for Crime Scientists
  - *Link*: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
  
 * Los Angeles Police Department Crime Data
-- *Description*: This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
-- *Link*: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
+ - *Description*: This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
+ - *Link*: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 
 #### Europe
 * UK Police Data
   - *Description*:
   - *Link*: https://data.police.uk/
+  
+ * Police Scotland, Annual Crime Statistics
+  - *Description*: Recorded Crime Statistics
+  - *Link*: https://www2.gov.scot/Topics/Statistics/Browse/Crime-Justice/Datasets/RecCrime
   
  ### Other
  * London Murder Map
