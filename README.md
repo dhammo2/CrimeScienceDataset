@@ -17,7 +17,7 @@ A collation of open source datasets useful for Crime Scientists. Please add any 
 #### Americas
 * City of Chicago Police Data
  - *Description*: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. 
- - *Link*: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+  - *Link*: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
  
 * Los Angeles Police Department Crime Data
  - *Description*: This dataset reflects incidents of crime in the City of Los Angeles dating back to 2010. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
